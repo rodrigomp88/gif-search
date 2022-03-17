@@ -34,3 +34,15 @@ input {
   flex-direction: row;
   flex-wrap: wrap;
 }
+
+.footer {
+  color: #000;
+  text-align: center;
+  text-align: center;
+  padding: 3px;
+}
+
+.footer a {
+  color: rgb(37, 81, 201);
+  text-decoration: none;
+}
