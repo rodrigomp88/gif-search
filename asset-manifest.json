@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-giftexpertapp/static/css/main.88ef6421.chunk.css",
+    "main.js": "/react-giftexpertapp/static/js/main.eca27c39.chunk.js",
+    "main.js.map": "/react-giftexpertapp/static/js/main.eca27c39.chunk.js.map",
+    "runtime-main.js": "/react-giftexpertapp/static/js/runtime-main.d257e13e.js",
+    "runtime-main.js.map": "/react-giftexpertapp/static/js/runtime-main.d257e13e.js.map",
+    "static/js/2.520bf8f4.chunk.js": "/react-giftexpertapp/static/js/2.520bf8f4.chunk.js",
+    "static/js/2.520bf8f4.chunk.js.map": "/react-giftexpertapp/static/js/2.520bf8f4.chunk.js.map",
+    "index.html": "/react-giftexpertapp/index.html",
+    "static/css/main.88ef6421.chunk.css.map": "/react-giftexpertapp/static/css/main.88ef6421.chunk.css.map",
+    "static/js/2.520bf8f4.chunk.js.LICENSE.txt": "/react-giftexpertapp/static/js/2.520bf8f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d257e13e.js",
+    "static/js/2.520bf8f4.chunk.js",
+    "static/css/main.88ef6421.chunk.css",
+    "static/js/main.eca27c39.chunk.js"
+  ]
+}
