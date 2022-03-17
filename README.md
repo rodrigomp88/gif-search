@@ -1,8 +1,13 @@
-# Gif Search App
+# Gif Search 💻
 
-View onlie demo: [gif search app](https://rodrigomp88.github.io/react-giftexpertapp/).
+View onlie demo 👉 [gif search](https://rodrigomp88.github.io/react-giftexpertapp/).
 
-## Stack
+## Stack 🔩⚙
 
 React
+
+## Description 📜
+
+Buscador de gifs con la api de GYPHY.
+Busque los gif que desee ver, no me hago responsable por los resultados inadecuados o fuera de lugar que muestre la app.
 
